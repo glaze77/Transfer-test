@@ -1,0 +1,1 @@
+window.transferTriviaRegisterMeta("cell-6-4", {"clueId":"cell-6-4","slide":34,"category":"Schematics","points":"600","badges":["troubleshooting"],"mediaClass":"","media":[{"file":"image1.png","w":8786984,"h":2748440},{"file":"image2.png","w":891383,"h":1872376},{"file":"image3.png","w":1467055,"h":1857634},{"file":"image4.jpg","w":2056227,"h":4227929}]});
